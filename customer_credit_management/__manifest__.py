@@ -10,7 +10,7 @@
     """,
     'author': "Aktiv Software",
     'website': "www.aktivsoftware.com",
-    'category': 'Sale',
+    'category': 'Sales',
     'version': '12.0.1.0.0',
     'depends': ['sale_management'],
     'data': [
